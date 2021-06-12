@@ -10,7 +10,7 @@
     <p align="center">
  
 </p align="center">
-<a href="https://ibb.co/MftLm6T"><img src="https://i.ibb.co/BGQR9ND/Github-bg.jpg" alt="Github-bg" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>image host</a><br />
+<a href="https://ibb.co/MftLm6T"><img src="https://i.ibb.co/BGQR9ND/Github-bg.jpg" alt="Github-bg" border="0"></a>
 
 <p align="center">
  
