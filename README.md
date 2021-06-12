@@ -10,7 +10,7 @@
     <p align="center">
  
 </p align="center">
-<img src="https://github.com/0xCipher-max/0xCipher-max/blob/main/images/Github-bg.jpg" height = "900px" style = "max-width: 100%;">
+<img src="https://github.com/0xCipher-max/0xCipher-max/blob/main/images/Github-bg.jpg" height = "900px">
 
 <p align="center">
  
