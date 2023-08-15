@@ -22,7 +22,7 @@
 </p>
 
 <p align="center">
-  I'm a 2nd year student pursuing Bachelor's of Technology in Computer Science and engineering🎓 from DIT University, Dehradun 🏛. I'm a passionate learner who's always willing       to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms skills🤓.
+  I'm a 4th-year student pursuing Bachelor of Technology in Computer Science and Engineering 🎓 from DIT University, Dehradun 🏛. I'm a passionate learner who's always willing       to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms skills🤓.
 </p>  
 
 <h2 align="center">Skills</h2>
@@ -44,6 +44,18 @@
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
 </p>
 
+<br>
+<p align = "center">
+## 💻 Coding Profiles and Stats
+
+I love participating in coding challenges and contributing to online coding platforms. You can find my coding profile on the following platforms:
+
+- [LeetCode](https://leetcode.com/himanshu_rawat_/) - Check out my problem-solving skills!
+
+<!--![Leetcode Stats](https://leetcard.jacoblin.cool/prajjwalchauhan_09?ext=heatmap)-->
+[![jetsai's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=himanshu_rawat_&theme=Dark&width=500)](https://leetcode.com/himanshu_rawat_/)
+</p>
+<br>
 
 <h2 align="center">
   Github Stats
